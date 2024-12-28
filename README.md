@@ -2,4 +2,4 @@
 ![alt text](https://github.com/Wonder010/lab10/blob/main/Diagramm2.PNG)
 ![alt text](https://github.com/Wonder010/lab10/blob/main/Diagramm3.PNG)
 ![alt text](https://github.com/Wonder010/lab10/blob/main/Diagramm4.PNG)
-![alt text](https://github.com/Wonder010/lab10/blob/main/Diagramm5.PNG)
+![alt text](https://github.com/Wonder010/Mispis/main/Diagramm5.png)
